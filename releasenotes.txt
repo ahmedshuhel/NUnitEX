@@ -1,3 +1,6 @@
+=== Build 1.0.7 ==
+	22      Updated the nunit library and ensured all the tests are green by adjusting code including fixing IncludedIn which was beraking in the previous build. 
+
 === Build 1.0.6 ===
 	21	Updated the nunit library and ensured all are green by adjusting code. IncludedIn was breaking due to nunits breaking changes.
 
